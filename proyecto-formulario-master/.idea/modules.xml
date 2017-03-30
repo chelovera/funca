@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../historial/.idea/historial.iml" filepath="$PROJECT_DIR$/../historial/.idea/historial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyecto-formulario-master.iml" filepath="$PROJECT_DIR$/.idea/proyecto-formulario-master.iml" />
     </modules>
   </component>
 </project>

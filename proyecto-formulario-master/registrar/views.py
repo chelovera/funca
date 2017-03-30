@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from .forms import RegistradoForm
-from .models import Registrado
+from .models import Persona
 # Create your views here.
 
 
